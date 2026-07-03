@@ -134,7 +134,7 @@ export default function Header() {
               title="Download full project source code as a ZIP file"
             >
               <Download className="w-3.5 h-3.5" />
-              <span className="hidden sm:inline">Download ZIP</span>
+              <span className="hidden sm:inline">Download CV</span>
             </a>
 
             <ThemeToggle />

@@ -117,16 +117,6 @@ export default function Hero() {
                 <Printer className="w-4.5 h-4.5 text-zinc-400 dark:text-zinc-500" />
                 <span>Print Professional CV</span>
               </button>
-
-              <a
-                href="/project.zip"
-                download="gokulsrinath-portfolio-project.zip"
-                className="px-6 py-3.5 border border-zinc-200 dark:border-zinc-800 bg-white hover:bg-zinc-50 dark:bg-zinc-900 dark:hover:bg-zinc-800 text-zinc-800 dark:text-zinc-200 font-semibold rounded-xl text-sm transition-all duration-200 shadow-sm cursor-pointer flex items-center justify-center gap-2 hover:-translate-y-0.5 active:translate-y-0 no-print"
-                title="Download full project source code as a ZIP file"
-              >
-                <Download className="w-4.5 h-4.5 text-zinc-400 dark:text-zinc-500" />
-                <span>Download Source ZIP</span>
-              </a>
             </motion.div>
           </div>
 
