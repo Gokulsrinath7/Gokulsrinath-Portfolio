@@ -1,7 +1,7 @@
 import { Skill, Experience, Certification, Education, Language } from './types';
 
 export const PERSONAL_INFO = {
-  name: 'GOKULSRINATH G',
+  name: 'GOKULSRINATH',
   title: 'Senior Front End Developer',
   subtitle: 'Specializing in Angular, TypeScript, & Reactive Architecture',
   email: 'gokulsrinath651@gmail.com',
