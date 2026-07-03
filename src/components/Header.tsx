@@ -128,7 +128,7 @@ export default function Header() {
           {/* Theme Toggle & Mobile Menu Trigger */}
           <div className="flex items-center gap-2.5">
             <a
-              href="/project.zip"
+              href="assets/files/Gokulsrinath Resume 1_1480.pdf"
               download="gokulsrinath-portfolio-project.zip"
               className="flex items-center gap-1.5 px-3 py-2 rounded-xl text-xs font-semibold text-white bg-blue-600 hover:bg-blue-700 dark:bg-blue-600 dark:hover:bg-blue-700 transition-all duration-200 cursor-pointer shadow-sm shadow-blue-500/10 no-print"
               title="Download full project source code as a ZIP file"
